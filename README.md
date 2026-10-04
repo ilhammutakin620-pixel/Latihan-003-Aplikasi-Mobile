@@ -2,6 +2,7 @@ PARKIR LANGGANAN
 
 Muhammad Ilham muttaqim - 1124160073
 
+Business Rules:
 - BR-01: Member bulanan mendapatkan parkir gratis
 - BR-02: Non-member dikenakan tarif parkir secara progresif berdasarkan durasi parkir.
 - BR-03: Tiket parkir yang hilang dikenakan denda sebesar Rp20.000.
